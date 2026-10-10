@@ -45,3 +45,8 @@ alpaka-desktop-mockup/
 # VitePress build and cache output
 docs/.vitepress/dist
 docs/.vitepress/cache
+
+# Nix / direnv
+.direnv/
+result
+result-*
